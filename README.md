@@ -1,5 +1,6 @@
 # CodingCup
-Coding Tomorrow Cup
+Coding Tomorrow Cup was a programming contest organized by EcoSim.
+
 The task was to write a self-driving car's program to take the Passengers to their destination while avoiding collisions and following traffic rules properly.
 Lots of possible continuations of the game was taken into account to find the optimal step (turning left, turning right, slowing, accelerating).
 Breaking the traffic rules, crashing, driving on grass or sidewalk and emergency-braking involved a point deduction, so the car had to be fast, but drive safely.
