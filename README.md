@@ -22,4 +22,4 @@ When a train hits the car, its HP will instantly be 0, so the edges are now dang
 And finally, a real route from the final, the darker car represents the next position of the car.
 Notice, that the car slows down near the crossroads, railway crossings and when it wants to park (arrives to a pedestrian or its destination).
 It's able to start by lane change if it's neccesary since it parks perpendicularly.
-![Animated round]("demo/route-37060.gif")
+![Animated round](demo/route-37060.gif)
