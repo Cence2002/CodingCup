@@ -18,3 +18,8 @@ Notice that darker (faster) positions are mostly on the long, straight roads, wh
 The last image shows a run during the final, the red stripes represent a train.
 When a train hits the car, its HP will instantly be 0, so the edges are now danger zones!
 ![Phantom cars](trains.jpg)
+
+And finally, a real route from the final, the darker car represents the next position of the car.
+Notice, that the car slows down near the crossroads, railway crossings and when it wants to park (arrives to a pedestrian or its destination).
+It's able to start by lane change if it's neccesary since it parks perpendicularly.
+![Animated round]("run-37060.gif")
